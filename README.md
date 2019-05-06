@@ -17,12 +17,39 @@ A remuneração é feita de acordo com o perfil de cada candidato, levando em co
 
 # Vagas Abertas  
 
+## Engenheiro de Software Pleno
+
+Principais atribuições:
+
+* Auxiliar nas definições de arquitetura;
+* Projetar e implementar microsserviços;
+* Planejar e implementar soluções para problemas da empresa.
+
+Requisitos:
+
+* Pelo menos um ano trabalhando com desenvolvimento de software;
+* Excelente capacidade analítica;
+* Conhecimento no padrão de APIs RESTFul;
+* Conhecimento em alguma linguagem orientada à objetos;
+* Conhecimento em banco de dados relacionais;
+* Conhecimentos em padrões e boas práticas de desenvolvimento de software.
+
+Desejável:
+
+* Conhecer Docker;
+* Conhecer TDD ou BDD;
+* Conhecer Python ou Ruby;
+* Algum conhecimento em Cloud Computing;
+* Conhecer programação funcional, preferêncialmente com Elixir ou Erlang;
+* Conhecer bancos de dados não relacionais;
+* Conhecer Linux e Shell Script.
+
 ## Analista Desenvolvedor Júnior
 
 Principais atribuições:
 
 * Desenvolver APIs RESTFul;
-* Desenvolver SPA integradas com nossas APIs;
+* Desenvolver SPA integradas com nossas APIs.
 
 Requisitos:
 
