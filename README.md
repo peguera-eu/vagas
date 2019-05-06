@@ -5,6 +5,11 @@ Somos uma empresa inovadora que tem como objetivo mudar a forma como as pessoas 
 
 Nossa tecnologia é criada com uma `stack` com o que há de mais moderno em termos de ferramentas e arquitetura: Utilizamos a arquitetura de microsserviços, Docker, e softwares escritos em Elixir e Ruby.
 
+## Vagas abertas:
+
+* [Engenheiro de software pleno](#engenheiro-de-software-pleno);
+* [Analista Desenvolvedor Júnior](#analista-desenvolvedor-j%C3%BAnior)
+
 ## O que oferecemos
 
 1. Oportunidade de aprender em um ambiente descontraído e inovador;
