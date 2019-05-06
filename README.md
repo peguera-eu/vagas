@@ -7,7 +7,7 @@ Nossa tecnologia é criada com uma `stack` com o que há de mais moderno em term
 
 ## Vagas abertas:
 
-* [Engenheiro de software pleno](#engenheiro-de-software-pleno)
+* [Engenheiro de Software Pleno](#engenheiro-de-software-pleno)
 * [Analista Desenvolvedor Júnior](#analista-desenvolvedor-j%C3%BAnior)
 
 ## O que oferecemos
