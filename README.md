@@ -37,7 +37,8 @@ Requisitos:
 * Conhecimento no padrão de APIs RESTFul;
 * Conhecimento em alguma linguagem orientada à objetos;
 * Conhecimento em banco de dados relacionais;
-* Conhecimentos em padrões e boas práticas de desenvolvimento de software.
+* Conhecimentos em padrões e boas práticas de desenvolvimento de software;
+* Resolver nosso [desafio técnico](/challenges/backend-pleno.md)
 
 Desejável:
 
